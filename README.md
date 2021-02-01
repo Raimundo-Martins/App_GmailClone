@@ -1,4 +1,4 @@
-# app_gmail
+# Aplicativo Gmail Clone
 
 A new Flutter project.
 
